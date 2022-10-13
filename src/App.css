@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+.content{
+  color:black;
+  font-style: small;
+   font-size: 20px; 
+   margin: 40px 100px;
+}
+ .topnav{
+  float: left;
+  color: #000000;
+  text-align: center;
+  margin: 51px 100px;
+  text-decoration: none;
+  font-size: 5px; 
+ }  
+
+.sniper{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF;
+padding-right: 150px; 
+text-decoration: none;
+}
+
+.nav-links{
+  font-size: 16px;
+  font-weight: 500;
+  color: #FFFFFF;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.hero{
+  background-color: #0F124D;
+  width: 100%;
+  height: 690px;
+  background-image: url("stars.svg");
+}
+.say-my-name{
+  color:#FDC221;
+  position: absolute;
+  width: 65px;
+  height: 25px;
+  left: 1251px;
+  top: 51px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+}
+.Lets-sky{
+  font-family:Roboto;
+  font-size: 48px;
+  font-weight: 500px;
+  line-height: 56px;
+  color:#FFFFFF ;
+  margin-top : 80px ;
+  margin-right:250px ;
+
+}
+.hoya{
+  padding-left:0px ;
+}
+.some-words{
+  width:655px ;
+  height:81px ;
+  top:254px ;
+  left:120px ;
+  font-weight:  400px; 
+  font-size: 20px; 
+  line-height:27.28px ;
+  color:#E1E1E1 ;
+  font-family:Nunito Sans;
+  text-align: left;
+}
+.space-ship{
+  width: 610px;
+  height: 541px;
+  left:814px;
+  background-image: url("space-ship.svg");
+  position: absolute;
+  bottom: 63px ;
+  margin-left:110px ;
+}
+.lorem-grid-1 {
+  color:#FFFFFF;
+  margin-left: 20px ;
+}
+.lorem-1 {
+  padding: 10px;
+  font-size: 13.75px;
+  text-align: left;
+}
+.lorem-grid-2 {
+  color:#FFFFFF;
+  margin-left: 20px ;
+  margin-top:-115px ;
+  margin-right:330px ;
+}
+.lorem-2 {
+  padding: 10px;
+  font-size: 13.75px;
+}
+.get-started-oval{
+  height: 64px;
+  width: 280px;
+  background:linear-gradient(to right, #F79E0E,#EEBD23 );
+  border-radius: 70px;
+  top:534px ; 
+  left:120px ;
+  -webkit-text-fill-color: #FFFFFF;
+  font-size:21px ;
+  font-family:Roboto ;
+  margin-top:50px ;
+  margin-right:500px ;
+}
+.lorem-img-2{
+margin-right:145px;
+margin-bottom :-20px ;
+}
+.lorem-img-1{
+  margin-left:-30px;
+  margin-bottom :-20px ;
+  }
